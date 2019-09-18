@@ -1,0 +1,10 @@
+class Config(object):
+
+    # Enable/disable debug mode.
+    DEBUG = True
+
+    # The hostname that the server listens on.
+    HOST = '0.0.0.0'
+    
+    # The port that the server listens on.
+    PORT = 4242
